@@ -1,0 +1,19 @@
+Cloud login
+Cloud name :brennancoughlin5293
+username : brennancoughlin5293@gmail.com
+pass : 24Pigmister!
+
+port: 25565
+
+vanilla start command
+screen java -Xmx18G -jar fabric-server-launch.jar nogui
+
+
+
+VM ip
+150.136.109.111
+
+b674214c-fb6d-4026-87d6-a7c4412a942b
+
+if you cannot connect
+login is root, 24pigmister
